@@ -1,0 +1,9 @@
+zig-cache
+zig-out
+zig-build/
+zig-build-release/
+zig-build-debug/
+zig-build-profile/
+zig-build-release-profile/
+zig-build-release-profile-debug/
+zig-build-release-profile-debug-profile/
